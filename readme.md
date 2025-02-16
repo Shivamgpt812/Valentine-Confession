@@ -23,7 +23,7 @@ This project is a simple yet beautiful interactive website designed for Valentin
 3. Share it with your special someone!  
 
 ## 🎁 Customization  
-Want to personalize the message? Just edit the text inside the `message` div in `index.html`. You can also modify the styles in `Valicode.css` to match your preferred theme.  
+Want to personalize the message? Just edit the text inside the `message` div in `Valicode.html`. You can also modify the styles in `Valicode.css` to match your preferred theme.  
 
 ## 💡 Inspiration  
 This project was created to make Valentine's Day confessions more special and interactive. Whether for a crush, a partner, or a secret admirer, it's a fun way to express your feelings!  
